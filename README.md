@@ -1,6 +1,6 @@
 # Computer Graphics – 2D and 3D Exercises in Java
 This repository contains the source code of the exercises developed in the practical sessions of the Computer Graphics course. 
-The exercises illustrate key concepts of 2D and 3D Computer Graphics. The implementations use the **Java 2D** and **Java 3D** libraries, 
+The exercises illustrate key concepts of 2D and 3D Computer Graphics (2023/2024). The implementations use the **Java 2D** and **Java 3D** libraries, 
 together with the educational libraries **CGLib2D** and **CGLib3D**, developed within the course to facilitate the understanding of fundamental 
 computer graphics principles. 
 
